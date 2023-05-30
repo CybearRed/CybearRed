@@ -3,7 +3,7 @@
 <h2>Cybersecurityh Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/CybearRed/ActiveDirectoryHomeLab/tree/main))
 
 
 <h2>Hack the Box Projects: Walkthroughs/Write Ups</h2>
