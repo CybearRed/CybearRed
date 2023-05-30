@@ -1,6 +1,6 @@
 <h1>Nicholas Walker </h1>
 
-<h2>Cybersecurityh Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 
   - [Active Directory Home Lab](https://github.com/CybearRed/ActiveDirectoryHomeLab/tree/main)
